@@ -1,2 +1,3 @@
 # testing
-for only practice purpose
+This is only for practice purpose.
+
